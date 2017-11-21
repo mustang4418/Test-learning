@@ -1,3 +1,10 @@
+多语言前台生成文件功能测试 #1497
+https://github.com/ToubroInfo/AOC/issues/1497
+
+
+
+
+
 
 http://testfront.leo.com/index.php?s=/Index_registrymobile.html
 
